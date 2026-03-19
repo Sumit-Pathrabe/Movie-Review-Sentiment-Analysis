@@ -26,3 +26,22 @@ To run this project locally, ensure you have Python installed, then follow these
    ```bash
    git clone [https://github.com/Sumit-Pathrabe/Movie-Review-Sentiment-Analysis.git](https://github.com/Sumit-Pathrabe/Movie-Review-Sentiment-Analysis.git)
    cd Movie-Review-Sentiment-Analysis
+Create and activate a virtual environment:
+
+Bash
+python -m venv venv
+.\venv\Scripts\activate
+Install the required dependencies:
+
+Bash
+pip install streamlit scikit-learn pandas nltk
+Run the Streamlit app:
+
+Bash
+streamlit run app.py
+The application will open in your default browser at localhost:8501.
+
+Author
+Sumit Pathrabe B.Tech Data Science Student | RCOEM
+
+Developed as part of NLP_PRAC_8 ```
