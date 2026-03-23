@@ -42,6 +42,6 @@ streamlit run app.py
 The application will open in your default browser at localhost:8501.
 
 Author
-Sumit Pathrabe B.Tech Data Science Student | RCOEM
+Sumit Pathrabe B.Tech Data Science Student   | RCOEM
 
-Developed as part of NLP_PRAC_8 ```
+Developed as part of NLP_PRAC_8 `
